@@ -1,3 +1,4 @@
+=====================================README=====================================
 pynewspaper is a dirty, ugly hack of a script that generates a static page that looks like a newspaper from RSS and Atom feeds (parsed by the lovely feedparser library). A few people asked for the code, but I make no guarantees toward it's functionality. Use it at your own risk
 
 Copyright 2006-2008 Jeremy Grosser
